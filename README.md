@@ -12,9 +12,9 @@ A Book Finder app that fetches data from Google Books API. Also gives details ab
 
 ## Screenshots
 
-![Home Screen](screenshots/Screenshot_1655901995.png =250x)
-![Searching](screenshots/Screenshot_1655902092.png =250x)
-![Search Result](screenshots/Screenshot_1655902104.png =250x)
-![Book Detail Screen](screenshots/Screenshot_1655902150.png =250x)
-![Home Screen](screenshots/Screenshot_1655902271.png =250x)
-![Home Screen](screenshots/Screenshot_1655902290.png =250x)
+![Home Screen](screenshots/Screenshot_1655901995.png)
+![Search Books](screenshots/Screenshot_1655902092.png)
+![Search Result](screenshots/Screenshot_1655902104.png)
+![Book Detail Screen](screenshots/Screenshot_1655902150.png)
+![Home Screen](screenshots/Screenshot_1655902271.png)
+![Home Screen](screenshots/Screenshot_1655902290.png)
