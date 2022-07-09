@@ -1,16 +1,20 @@
 # bookopus_app
 
-A new Flutter project.
+A Book Finder app that fetches data from Google Books API. Also gives details about any book along with a link to purchase it.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Books and E-books aggregator app that fetches books from Google Books API
+- Home screen displays books by genre and books can be searched by the title, author's name, and genre.
+- Clicking on the book title shows details of the book along with a link to purchase it
+- Banner ad at the bottom of the page
+- Used: Flutter, Google Books API, Google Ads
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Home Screen](screenshots/Screenshot_1655901995.png =250x)
+![Searching](screenshots/Screenshot_1655902092.png =250x)
+![Search Result](screenshots/Screenshot_1655902104.png =250x)
+![Book Detail Screen](screenshots/Screenshot_1655902150.png =250x)
+![Home Screen](screenshots/Screenshot_1655902271.png =250x)
+![Home Screen](screenshots/Screenshot_1655902290.png =250x)
